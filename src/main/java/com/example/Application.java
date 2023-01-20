@@ -6,6 +6,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 # fix bug in application.java
 # yet another fake fix
+# bug02
 import javax.annotation.PostConstruct;
 
 @SpringBootApplication
